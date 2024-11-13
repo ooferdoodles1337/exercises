@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int ex1()
+int main()
 {
     char name[] = "Pantai Suyasri";
     char dob[] = "25/03/2006";
