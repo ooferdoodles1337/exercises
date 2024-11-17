@@ -2,8 +2,8 @@
 
 int main()
 {
-    char name[] = "Pantai Suyasri";
-    char dob[] = "25/03/2006";
+    char name[] = "John Doe";
+    char dob[] = "01/01/2000";
     char mobile[] = "081-234-5678";
 
     printf("Name   : %s\n", name);
